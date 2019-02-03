@@ -1,0 +1,5 @@
+a = 100
+b = 200
+show 300
+show a
+show 400
