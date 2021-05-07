@@ -1,6 +1,7 @@
 lib/
 target/
 .settings/
+.idea/
 bin/
 tmp/
 logs/
@@ -16,3 +17,4 @@ release.properties
 .classpath
 .project
 .checkstyle
+*.iml

@@ -60,5 +60,7 @@
   </build>
   <modules>
     <module>simplerlang</module>
+    <module>untitled</module>
+    <module>sandLang</module>
   </modules>
 </project>
